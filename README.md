@@ -87,5 +87,5 @@ streamlit run app.py
 Have questions, suggestions or want to collaborate?
 
 📧 tanishakbansal07@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/tanishak-bansal007)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanishak-bansal007) 
 🐙 [GitHub](https://github.com/tanishak0000007777)
